@@ -1,0 +1,15 @@
+MQTT Protocol: https://mqtt.org/documentation
+
+ESP32 Documentation: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
+
+Mosquitto MQTT Broker: https://mosquitto.org/
+
+PubSubClient Library (MQTT for Arduino): https://github.com/knolleary/pubsubclient
+
+DS18B20 Sensor Datasheet: https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
+
+DallasTemperature Library: https://github.com/milesburton/Arduino-Temperature-Control-Library
+
+OneWire Library: https://www.pjrc.com/teensy/td_libs_OneWire.html
+
+Random Nerd Tutorials MQTT Example: https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
